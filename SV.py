@@ -28,8 +28,9 @@ for i in range(6):
     time.sleep(0.5)
 
 # Imagen decorativa (puedes cambiar el link a otra imagen/gif romántico)
-st.image("https://media.istockphoto.com/id/1201821268/es/vector/un-chico-besando-la-mejilla-de-una-chica.jpg?s=612x612&w=0&k=20&c=8FhbvCpv5IAhw_l4dmG1S8TLVxiu1D3AakAx4M5G_Is=", caption="Un corazón que late por ti 💓", use_column_width=True)
+st.image("https://co.pinterest.com/pin/81275968271251412/", caption="Un corazón que late por ti 💓", use_column_width=True)
 
 # Botón sorpresa
 if st.button("💌 Haz clic aquí para tu sorpresa"):
     st.success("✨ Eres muy importante para mí, gracias por ser parte de mi vida. 💕")
+
