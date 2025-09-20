@@ -28,7 +28,7 @@ for i in range(6):
     time.sleep(0.5)
 
 # Imagen decorativa (puedes cambiar el link a otra imagen/gif romántico)
-st.image("hhttps://img.freepik.com/foto-gratis/pareja-chico-chica-estilo-anime_23-2151451503.jpg?semt=ais_incoming&w=740&q=80", caption="Un corazón que late por ti 💓", use_column_width=True)
+st.image("https://img.freepik.com/foto-gratis/grupo-chicos-al-estilo-anime-pasando-tiempo-juntos-disfrutando-su-amistad_23-2151479371.jpg", caption="Un corazón que late por ti 💓", use_column_width=True)
 
 # Botón sorpresa
 if st.button("💌 Haz clic aquí para tu sorpresa"):
