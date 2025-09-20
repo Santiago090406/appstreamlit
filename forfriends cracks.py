@@ -28,8 +28,8 @@ for i in range(6):
     time.sleep(0.5)
 
 # Imagen decorativa (puedes cambiar el link a otra imagen/gif romántico)
-st.image("https://img.freepik.com/foto-gratis/pareja-chico-chica-estilo-anime_23-2151451503.jpg?semt=ais_incoming&w=740&q=80", caption="Gracias por acompañarme en la vida", use_column_width=True)
+st.image("https://i.pinimg.com/564x/4a/be/1b/4abe1bf96b764f0250ce618787f5f8e8.jpg", caption="Gracias por acompañarme en la vida", use_column_width=True)
 
 # Botón sorpresa
 if st.button("💌 Haz clic aquí para tu sorpresa"):
-    st.success("✨ Eres muy importante para mí, gracias por ser parte de mi vida. 💕")
+    st.success("✨ Eres muy importante para mí, gracias por ser parte de mi vida y darme muchas alegrias y apoyarme en los momentos diciles. 💕")
