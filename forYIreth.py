@@ -15,7 +15,7 @@ st.markdown(
         Que este día esté lleno de sonrisas, cariño y momentos inolvidables. 
         por enseñarme cosas que me guardare en lo profundo de mi corazon,
         por estar ahi en diverosos momentos, tal vez simples pero
-        estas para mi ☺️💖 
+        estas para mi ☺️💖 TE QUEIRO MUUUUUUCHO
     </div>
     """,
     unsafe_allow_html=True,
@@ -36,3 +36,4 @@ st.image("https://i.pinimg.com/474x/34/8f/59/348f594641cb778e4dd1750cb00248bf.jp
 # Botón sorpresa
 if st.button("💌 Haz clic aquí para tu sorpresa"):
     st.success("✨ Eres muy importante para mí, gracias por ser parte de mi vida. y por cada momento que pasamos juntos o que pasaremos, y por atreverte a conocer a este desastre XD 💕")
+
